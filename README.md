@@ -2,8 +2,11 @@
 We are conducting a four step machine learning based approach to optimizing a stock portfolio
 
 First Step: Stock Index Selection
+
 Second Step: Stock Selection
+
 Third Step: Correlation Analysis
+
 Fourth Step: Visualization of Correlation Analysis
 
 
