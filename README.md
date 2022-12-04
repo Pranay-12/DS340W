@@ -15,4 +15,10 @@ For the third step (correlation analysis) of our four step method we use the mod
 The code for our third step of correlation analysis is from: https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict 
 We made some modifications it.
 
+# What You'll Find In Each Folder
+### Step 1 - Stock Index Selection
+1. Stock Indexes Data: Data used to train the stock index prediction model
+2. Linear Regression.ipynb: Baseline stock index prediction model
+3. StockIndexPrediction.ipynb: Hybrid stock index prediction model and stock index selection criteria
 
+### Step 1 - Stock Index Selection
